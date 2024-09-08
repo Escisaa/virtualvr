@@ -2,9 +2,9 @@ import Navbar from "./components/navbar";
 import HeroSection from "./components/herosection";
 import FeatureSection from "./components/featureSection";
 import WorkFlow from "./components/workFlow";
+import Footer from "./components/footer";
 import Pricing from "./components/pricing";
 import Testimonials from "./components/testimonials";
-import Footer from "./components/footer";
 export default function App() {
   return (
     <>
